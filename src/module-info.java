@@ -4,5 +4,5 @@
 /**
  * 
  */
-module git_hub {
+module codingtest {
 }
